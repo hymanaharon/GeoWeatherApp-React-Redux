@@ -1,0 +1,16 @@
+.textBox{
+    background-color:rgba(227,244,250,0.4);
+
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10%;
+}
+.time{
+    text-align: center;
+    color:rgb(0, 51, 153);
+}
+#date{
+    text-align: center;
+    color:rgb(0, 51, 153);
+}
